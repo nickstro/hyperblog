@@ -2,4 +2,4 @@ Esta es una historia rapida
 
 para probar git 
 
-funciona ?
+Si funciona despues se realizaran mas cambios
